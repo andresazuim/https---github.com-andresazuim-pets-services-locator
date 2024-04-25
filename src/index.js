@@ -5,7 +5,6 @@ const PORT = 3000
 const key ="Sua_chave_key_do_google_maps"
 
 
-
 app.get('/api/services', async (req, res) => {
     try {
                 
